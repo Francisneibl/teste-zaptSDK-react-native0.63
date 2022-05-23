@@ -1,8 +1,8 @@
-### Run Example
+## Run Example
 
-## Up metro server
+### Up metro server
 `npm run start`
-## Run android
+### Run android
 `npm run android`
-## Run IOS
+### Run IOS
 `npm run ios`
